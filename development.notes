@@ -1,0 +1,44 @@
+
+I have just been hired as an Database Analyst in a decent online shop I am very excited.
+Working directly with the CEO, the Marketing Director and the Website Manager to help navigate the business.
+Have to analyze and optimize marketing channels, measure and test website performance,
+and use data to understand the impact of new products.
+
+OBJECTIVE:
+
+-   Access and explore the online shop Database
+-   Become the data expert for the company, and the go-to person for mission critical analyses
+-   Analyze and optimize the business' marketing channels, website, and product portfolio
+
+
+MYSQL FOCUS:
+
+- The big "Big 6" statements and clauses
+
+    [√] SELECT
+    [√] FROM
+    [√] WHERE
+    [√] GROUP BY
+    [ ] HAVING
+    
+    [ ] ORDER BY
+
+- Aggregate functions used with GROUP BY 
+
+    [ ] COUNT
+    [ ] COUNT DISTINCT
+    [ ] MIN
+    [ ] MAX
+    [ ] AVG
+    [ ] SUM
+
+- COMMON JOIN TYPES
+
+    [ ] INNER JOIN 
+    [√] LEFT JOIN
+    [ ] RIGHT JOIN
+    [ ] FULL OUTER JOIN 
+    [ ] UNION
+
+
+IKenyaSpiserDeBørn12
