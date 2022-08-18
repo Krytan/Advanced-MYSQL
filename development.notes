@@ -1,5 +1,3 @@
-
-I have just been hired as an Database Analyst in a decent online shop I am very excited.
 Working directly with the CEO, the Marketing Director and the Website Manager to help navigate the business.
 Have to analyze and optimize marketing channels, measure and test website performance,
 and use data to understand the impact of new products.
@@ -11,7 +9,7 @@ OBJECTIVE:
 -   Analyze and optimize the business' marketing channels, website, and product portfolio
 
 
-MYSQL FOCUS:
+MYSQL well known concepts:
 
 - The big "Big 6" statements and clauses
 
@@ -20,17 +18,16 @@ MYSQL FOCUS:
     [√] WHERE
     [√] GROUP BY
     [ ] HAVING
-    
-    [ ] ORDER BY
+    [√] ORDER BY
 
 - Aggregate functions used with GROUP BY 
 
-    [ ] COUNT
-    [ ] COUNT DISTINCT
-    [ ] MIN
-    [ ] MAX
-    [ ] AVG
-    [ ] SUM
+    [√] COUNT
+    [√] COUNT DISTINCT
+    [√] MIN
+    [√] MAX
+    [√] AVG
+    [√] SUM
 
 - COMMON JOIN TYPES
 
@@ -41,4 +38,10 @@ MYSQL FOCUS:
     [ ] UNION
 
 
-IKenyaSpiserDeBørn12
+BUSINESS CONCEPT:
+
+    -Traffic Source Analysis
+
+        * Is about understanding where your customers are coming from and which channels are driving the highest quality traffic.
+    
+    Key Tables: website sessions, pageviews & orders
