@@ -44,4 +44,16 @@ BUSINESS CONCEPT:
 
         * Is about understanding where your customers are coming from and which channels are driving the highest quality traffic.
     
-    Key Tables: website sessions, pageviews & orders
+    Key Tables: website sessions, pageviews & order
+
+    UTM TRACKING PARAMETERS: Paid traffic is commonly tagged with tracking (UTM) parameters, 
+    which are appended to URLs and allow us to tie website activity back to specific traffic sources and campaigns
+
+        www.abcwebsite.com?utm_source=trafficSource&utm_camoaign=campaignName
+
+
+    *   We use the utm paramaters stored in the database to identify paid website sessions
+
+    *   From our session data, we can link to our order data to understand how much revenue our paid campaigns are driving
+
+        PRO TIP: Use GROUP BY with COUNT() and SUM() to identify critical traffic drivers 
