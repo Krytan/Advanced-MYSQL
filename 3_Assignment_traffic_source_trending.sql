@@ -18,7 +18,7 @@ OUTPUT
 		"sessions" : 399
 
         this is the result after biding down gsearch nonbrand, it caused a big impact in the volume
-        we want big volumes but not spending more than he can afford.  
+        we want big volumes but not spending more than we can afford.  
 
 */
 
