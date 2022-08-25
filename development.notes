@@ -11,6 +11,8 @@ OBJECTIVE:
 
 MYSQL well known concepts:
 
+√ minds I have a pretty good understanding and if missing then I need to review it.
+
 - The big "Big 6" statements and clauses
 
     [√] SELECT
@@ -57,3 +59,46 @@ BUSINESS CONCEPT:
     *   From our session data, we can link to our order data to understand how much revenue our paid campaigns are driving
 
         PRO TIP: Use GROUP BY with COUNT() and SUM() to identify critical traffic drivers 
+
+    -Bid optimization 
+
+        * Analyzing for bid optimization is having knowdlege about the value of various segment of paid traffic, so that you can optimize 
+        your marketing budget.
+
+        for example we have 3 segments, A is 10% CVR, B  is 3% CVR and C 17% CVR
+        we should recommend biding up A and C cuz they have good CVR and biding down B
+
+        * Common use cases:
+
+            -   Using CVR and revenue per click analyses to find out how much you should spend per click to acquire customers.
+
+            -   understanding how your website and products perform for various subsegments of traffic (i.e. mobile vs desktop) to optimize within channels
+
+            -   Analyzing the what the bid changes have on your ranking in the auctions, and the volume of customers driven to your site.
+
+    
+    MYSQL DATE FUNCTIONS
+
+        [√] MONTH  - For extracting month from the date or datetime value.
+        [√] YEAR  - For extracting year from the date or datetime value.
+        [√] WEEK  - For extracting week from the date or datetime value.
+
+        Examples: MONTH(created_at) AS created_month so you extract month from create_at colum and output as created_month.
+
+        PRO TIP:
+        Use date functions with GROUP BY and aggregate functions like COUNT() and SUM() to show trednding.
+
+        ____________________________________________________
+        FUNCTION        How You Might Use It
+        
+        YEAR()          Return the year for a given date.
+        QUARTER()       Return the quarter for a gien date.
+        MONTH()         Return the month for a given date.
+        WEEK()          Return the week for a given date.
+        DATE()          Return the date for a given datetime.
+        NOW()           Calculate time relatie to now.
+
+    
+    PRO TIP: "PIVOTING" DATA WITH COUNT & CASE
+
+    CASE: "PIVOTS"

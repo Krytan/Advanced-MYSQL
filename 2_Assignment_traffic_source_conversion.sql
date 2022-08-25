@@ -1,5 +1,8 @@
 
 /*
+Conversion rate: Definition
+The average number of conversions per ad interaction, shown as a percentage.
+For example, if you had 50 conversion from 1,000 interactions, your conversion rate would be 5%, since 50 / 1,000 = 5%
 
 OUTPUT 
 
