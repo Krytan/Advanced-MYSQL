@@ -101,3 +101,4 @@ FROM nonbrand_sessions_w_landing_pages
 	LEFT JOIN bouced_sessions
 		ON	nonbrand_sessions_w_landing_pages.pageview_url = bouced_sessions.pageview_url
 	GROUP BY bouced_sessions.pageview_url
+	
