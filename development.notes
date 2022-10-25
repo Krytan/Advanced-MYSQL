@@ -141,6 +141,11 @@ BUSINESS CONCEPT:
         -   Analyzing test results and making recommendations on which version of landing pages you should use going forward.
 
 
+    Subqueries
+
+    Similar to temporary tables in the conxept that we use a temporary table to refer another table 
+    it is a query within a query
+
     
 
 
