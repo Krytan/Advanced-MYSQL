@@ -144,8 +144,27 @@ BUSINESS CONCEPT:
     Subqueries
 
     Similar to temporary tables in the conxept that we use a temporary table to refer another table 
-    it is a query within a query
+    it is a query within a query.
 
+
+    - Analyzing & testing conversion funnels
+
+        Is about understanding and optimizing each step of the user esperience from where he lands to purchasing a product. 
+        
+        HOMEPAGE > PRODUCT PAGE › ADD TO CART › SALE 
+        
+        understanding how many users stayed in the process and how many left thought out each step. 
     
+    Common cases: 
+    
+        1. Finding the most common path users take before purchasing a product. 
+        
+        2. How many customers continue in the flow and how many leaves it thought out each step. 
+        
+        3. Optimizing critical steps where users are leaving so you can make them continue in the flow and finally buy the product for better sales. 
+        
+    that makes me as data analyst a valuable person in the business
+
+
 
 
