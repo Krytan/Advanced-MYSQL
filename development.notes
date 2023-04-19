@@ -166,5 +166,24 @@ BUSINESS CONCEPT:
     that makes me as data analyst a valuable person in the business
 
 
+    Channel portfolio optimization
+
+        Common cases:
+
+            1.  Understanding which marketing channels are driving the most sessions and orders in your website.
+
+            2.  Understanding differences in user characteristics and conversion performance across marketing channels.
+
+            3.  Optimizing bids and allocating marketing spend across a multi-channel portfolio to achieve maximum performance. 
+        
+        Paid traffic common tagged as UTM paramaters
+
+        Channel portfolio analyses
+
+        To identify traffic coming from multiple marketing channels, we will use utm paramaters stored in our sessions.
+
+        We will LEFT JOIN to our orders table to understand which of the sessions converted to placing an order and generating revenue.
+
+
 
 
