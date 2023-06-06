@@ -51,13 +51,6 @@ In this course Working directly with the CEO, the Marketing Director and the Web
 Have to analyze and optimize marketing channels, measure and test website performance,
 and use data to understand the impact of new products.
 
-## :sparkles: Tables ##
-
-:heavy_check_mark: User;\
-:heavy_check_mark: User_Address;\
-:heavy_check_mark: Address;\
-:heavy_check_mark: Course;\
-:heavy_check_mark: Group;
 
 ## :rocket: Technologies ##
 
@@ -86,28 +79,6 @@ The following tools were used in this Sample:
 - [Simple_Readme]
 - [TabsColor]
 -
-
-## :white_check_mark: Requirements ##
-
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
-
-## :checkered_flag: Starting ##
-
-```bash
-# Clone this project
-$ git clone https://github.com/Fkristoffersen/p5webapi
-
-# Access
-$ cd p5webapi
-
-# Install dependencies
-$ yarn
-
-# Run the project
-$ yarn start
-
-# The server will initialize in the <http://localhost:3000>
-```
 
 ## :memo: License ##
 
